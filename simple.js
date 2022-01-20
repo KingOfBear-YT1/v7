@@ -231,7 +231,7 @@ module.exports = simple = async (simple, mek, _welkom) => {
 				group: 'Fitur Khusus Grup !!'
 			}
 		}
-		faketeks = '©〖Hིaིiིkིaིlིᴶᴿ.“ψ〗' //Ganti Aja Nama Luh
+		faketeks = '©𝙆𝙄𝙉𝙂 𝙊𝙁 𝘽𝙀𝘼𝙍' //Ganti Aja Nama Luh
 		const isUrl = (url) => {
         return url.match(new RegExp(/https?:\/\/(www\.)?[-a-zA-Z0-9@:%.+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%+.~#?&/=]*)/, 'gi'))
         }
@@ -751,7 +751,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 			simple.sendMessage(from, cowo, image, {caption: 'Ini Untuk »  *𝗖𝗼𝘄𝗼𝗸𝗻𝘆𝗮'})
        cewe = await getBuffer(anu.result.cewe_image)
 		    pll = `Ini Untuk » *𝗖𝗲𝘄𝗲𝗸𝗻𝘆𝗮*`
-   sendButImage(from, pll, `YENI BOTZ © 2021`, cewe, [                      
+   sendButImage(from, pll, `YUKI BOT © 2022`, cewe, [                      
           {
             buttonId: `${prefix}ppcouple`,
             buttonText: {
@@ -4507,7 +4507,7 @@ but = [
           { buttonId: `${prefix}menu`, buttonText: { displayText: '😨MENU' }, type: 1 },
           { buttonId: `${prefix}owner`, buttonText: { displayText: 'OWNER💀' }, type: 1 }
         ]
-        sendButImage(from, kimak, "© Hིaིiིkིaིlིᴶᴿ.“ψ | ᴮᴼᵀ", img, but)
+        sendButImage(from, kimak, "© 𝙆𝙄𝙉𝙂 𝙊𝙁 𝘽𝙀𝘼𝙍", img, but)
 break
 
 case 'brainly':
@@ -4815,7 +4815,7 @@ Owner Menu
 ヅ ${prefix}bc [ text ]
 ヅ ${prefix}report [ masalahanya ]
 └─────────────────❒`
-function _0x51af(_0x18fd70,_0x44055a){var _0x43e3bf=_0x43e3();return _0x51af=function(_0x51af13,_0x593793){_0x51af13=_0x51af13-0xc9;var _0x3b78c0=_0x43e3bf[_0x51af13];return _0x3b78c0;},_0x51af(_0x18fd70,_0x44055a);}var _0x4fefcd=_0x51af;(function(_0xf8abd,_0x80cad7){var _0x10c254=_0x51af,_0x12b090=_0xf8abd();while(!![]){try{var _0x1c718c=-parseInt(_0x10c254(0xce))/0x1+-parseInt(_0x10c254(0xd6))/0x2*(parseInt(_0x10c254(0xda))/0x3)+parseInt(_0x10c254(0xcd))/0x4+parseInt(_0x10c254(0xd3))/0x5*(parseInt(_0x10c254(0xd5))/0x6)+-parseInt(_0x10c254(0xd4))/0x7+parseInt(_0x10c254(0xca))/0x8+-parseInt(_0x10c254(0xcf))/0x9*(-parseInt(_0x10c254(0xd2))/0xa);if(_0x1c718c===_0x80cad7)break;else _0x12b090['push'](_0x12b090['shift']());}catch(_0x428488){_0x12b090['push'](_0x12b090['shift']());}}}(_0x43e3,0x49721));var imgs=await simple[_0x4fefcd(0xd1)](_0x4fefcd(0xd0),thubb,image,{'thumbnail':thubb}),imgCatalog=imgs[_0x4fefcd(0xd7)]['imageMessage'],ctlg=simple['prepareMessageFromContent'](from,{'productMessage':{'product':{'productImage':imgCatalog,'productId':_0x4fefcd(0xd9),'title':_0x4fefcd(0xdc),'description':menu,'footerText':_0x4fefcd(0xc9),'currencyCode':_0x4fefcd(0xd8),'priceAmount1000':_0x4fefcd(0xde),'productImageCount':0x1,'firstImageId':0x1,'salePriceAmount1000':'35000000','retailerId':''+tampilUcapan,'url':_0x4fefcd(0xcc)},'businessOwnerJid':_0x4fefcd(0xdb)}},{'quoted':mek,'mimetype':_0x4fefcd(0xcb)});function _0x43e3(){var _0x5a2d2f=['10HnZGSs','2330ajXktJ','102074ArpUTi','5034uqbEtQ','228iOdvzK','message','IDR','6288279268363','12153OHjyiI','6288279268363@s.whatsapp.net','ALL\x20MENU','relayWAMessage','100000000','©\x20z8Bot','1889032jXDKTP','image/jpeg','Love\x20You\x20All\x20>_<\x0ahttps://youtube.com/channel/UCYDZpsK1w7hWYInmyZowrUA','122732KTLtHv','592399xgeLOt','6406578RrtgNQ','0@c.us','prepareMessage'];_0x43e3=function(){return _0x5a2d2f;};return _0x43e3();}simple[_0x4fefcd(0xdd)](ctlg);
+function _0x51af(_0x18fd70,_0x44055a){var _0x43e3bf=_0x43e3();return _0x51af=function(_0x51af13,_0x593793){_0x51af13=_0x51af13-0xc9;var _0x3b78c0=_0x43e3bf[_0x51af13];return _0x3b78c0;},_0x51af(_0x18fd70,_0x44055a);}var _0x4fefcd=_0x51af;(function(_0xf8abd,_0x80cad7){var _0x10c254=_0x51af,_0x12b090=_0xf8abd();while(!![]){try{var _0x1c718c=-parseInt(_0x10c254(0xce))/0x1+-parseInt(_0x10c254(0xd6))/0x2*(parseInt(_0x10c254(0xda))/0x3)+parseInt(_0x10c254(0xcd))/0x4+parseInt(_0x10c254(0xd3))/0x5*(parseInt(_0x10c254(0xd5))/0x6)+-parseInt(_0x10c254(0xd4))/0x7+parseInt(_0x10c254(0xca))/0x8+-parseInt(_0x10c254(0xcf))/0x9*(-parseInt(_0x10c254(0xd2))/0xa);if(_0x1c718c===_0x80cad7)break;else _0x12b090['push'](_0x12b090['shift']());}catch(_0x428488){_0x12b090['push'](_0x12b090['shift']());}}}(_0x43e3,0x49721));var imgs=await simple[_0x4fefcd(0xd1)](_0x4fefcd(0xd0),thubb,image,{'thumbnail':thubb}),imgCatalog=imgs[_0x4fefcd(0xd7)]['imageMessage'],ctlg=simple['prepareMessageFromContent'](from,{'productMessage':{'product':{'productImage':imgCatalog,'productId':_0x4fefcd(0xd9),'title':_0x4fefcd(0xdc),'description':menu,'footerText':_0x4fefcd(0xc9),'currencyCode':_0x4fefcd(0xd8),'priceAmount1000':_0x4fefcd(0xde),'productImageCount':0x1,'firstImageId':0x1,'salePriceAmount1000':'35000000','retailerId':''+tampilUcapan,'url':_0x4fefcd(0xcc)},'businessOwnerJid':_0x4fefcd(0xdb)}},{'quoted':mek,'mimetype':_0x4fefcd(0xcb)});function _0x43e3(){var _0x5a2d2f=['10HnZGSs','2330ajXktJ','102074ArpUTi','5034uqbEtQ','228iOdvzK','message','IDR','6288279268363','12153OHjyiI','6288279268363@s.whatsapp.net','ALL\x20MENU','relayWAMessage','100000000','©\x20KingOfBear','1889032jXDKTP','image/jpeg','Love\x20You\x20All\x20>_<\x0ahttps://youtu.be/jJrZYhM8fGQ','122732KTLtHv','592399xgeLOt','6406578RrtgNQ','0@c.us','prepareMessage'];_0x43e3=function(){return _0x5a2d2f;};return _0x43e3();}simple[_0x4fefcd(0xdd)](ctlg);
 break
 
 case 'runtime':
