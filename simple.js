@@ -8,6 +8,7 @@
 //🐣 ORANG TUA { MY FAMILY }
 //♎ @ADIWAJSHING { MODULE }
 //♎ BAILEYS { SERVER }
+//🐣 KING OF BEAR { PANUTAN }
 //🐣 Zero YT7 { Mastah }
 //🐣 MY CRUSH <3 { ADA DEH }
 //🐣 NATA { PEMOTIVASI }
@@ -45,7 +46,7 @@
 
 //JANGAN APUS CREATOR BAMG INI SC SY SUSUN BELUM LMA INI JADI JANGAN DI HUJAT KALO SC NYA JEMLEK
 //BASE ORI MHANKBARBAR😇
-//MAU RECODE SC? RECODE AJA TAPI JANGAN LUPA NAMA SAYA HAIKAL
+//MAU RECODE SC? RECODE AJA TAPI JANGAN LUPA NAMA SAYA KING OF BEAR
 //MAAF YA KALO MASIH BANYAK ERORR BARU BELAJAR NGAB 😭
 
 //>>>>>>>>>>>>>>>>>{ AWALAN }<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<\\
@@ -109,12 +110,12 @@ const { logo } = require('./shop/logo')
 
 //const² pdf & catalog>>>>>>>>>>>>>>>>>>>>>\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-const dtod = "62815143205943@s.whatsapp.net"
+const dtod = "6288279268363@s.whatsapp.net"
 
-const otod = "62815143205943@s.whatsapp.net"
-const ktod = "62815143205943@s.whatsapp.net"
+const otod = "6288279268363@s.whatsapp.net"
+const ktod = "6288279268363@s.whatsapp.net"
 
-const htod = "62815143205943@s.whatsapp.net"
+const htod = "6288279268363@s.whatsapp.net"
 const ini_mark = `0@s.whatsapp.net`
     
 //━━━━━━━━━━━━━━━[ DATABASE ]━━━━━━━━━━━━━━━━━//
@@ -142,15 +143,15 @@ thumbnail = setting.thumb
 
 owner = setting.owner
 botname = setting.botname
-bian = setting.bian
-bianname = setting.bianname
+bear2 = setting.bear2
+bearname2 = setting.bearname2
 ownername = setting.ownername
-yopki = setting.yopki
-yopkiname = setting.yopkiname
-dinda = setting.dinda
-dindaname = setting.dindaname
-nando = setting.nando
-nandoname = setting.nandoname
+bear3 = setting.bear3
+bearname3 = setting.bearname3
+bear = setting.bear
+bearname1 = setting.bearname1
+bear4 = setting.bear4
+bearname4 = setting.bearname4
 
 //━━━━━━━━━━━━━━━[ CONST APIKEY ]━━━━━━━━━━━━━━━━━//
 
@@ -185,7 +186,7 @@ module.exports = simple = async (simple, mek, _welkom) => {
 		const txt = mek.message.conversation
 		const c = args.join(' ')
 		const botNumber = simple.user.jid
-		const ownerNumber = [`${owner}@s.whatsapp.net`, `6289609927539@s.whatsapp.net`]
+		const ownerNumber = [`${owner}@s.whatsapp.net`, `6288279268363@s.whatsapp.net`]
 		const isGroup = from.endsWith('@g.us')
 		let sender = isGroup ? mek.participant : mek.key.remoteJid
 		const totalchat = await simple.chats.all()
@@ -316,7 +317,7 @@ sendKontak = (from, nomor, nama) => {
             return simple.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
         }    
         
-        const jelek = { "title": `Hallo ${pushname}`,"body": `hy`, "mediaType": "2", "mediaUrl": "https://youtube.com/shorts/b_L5jlwrFRs?feature=share", "thumbnail": fs.readFileSync('./poto/YENI.jpg')}
+        const jelek = { "title": `Hallo ${pushname}`,"body": `hy`, "mediaType": "2", "mediaUrl": "https://www.youtube.com/watch?v=jJrZYhM8fGQ&t=32s", "thumbnail": fs.readFileSync('./poto/YENI.jpg')}
 
                        
 // fakedoc
@@ -370,7 +371,7 @@ const fvid = {
                 },
 	 message: { 
                  "videoMessage": { 
-                 "title": `Haikal`,
+                 "title": `KING OF BEAR`,
                  "h": `OWNER KU JELEK😄`,
                  'duration': '99999', 
                  'caption': `OWNER KU JELEK😄`,
@@ -461,8 +462,8 @@ const daftar1 = `
 ㋡ ᎾᏔNᎬᎡ : ${ownername}
 
 🌷нaι ĸaĸ ${pushname} terimakasih telah mengunjungi bot ini \n\n ѕeвelυм мenggυnaĸan ғιтυr ${botname} ѕιlaнĸan verιғy dυlυ ya😉 ĸlιĸ вυттon ʀᴇɢɪsᴛʀᴀsɪ dι вawaн `
-const daftar2 = '```ᎡᎬᏩᏆᏚᎢᎬᎡ ᎢᎬᎡᏞᎬᏴᏆᎻ ᎠᎪᎻᏌᏞᏌ ᏌNᎢᏌK ᎷᎬNᏆKᎷᎪᎢᏆ FᏆᎢᏌᎡ²```'
-const daftar3 = [{buttonId: `${prefix}verify`,buttonText: {displayText: `ᖇEGIᔕTᖇᗩᔕI🌷`,},type: 1,},]
+const daftar2 = '```𝙍𝙀𝙂𝙄𝙎𝙏𝙀𝙍 𝙏𝙀𝙍𝙇𝙀𝘽𝙄𝙃 𝘿𝘼𝙃𝙐𝙇𝙐 𝙐𝙉𝙏𝙐𝙆 𝙈𝙀𝙉𝙄𝙆𝙈𝘼𝙏𝙄 𝙁𝙄𝙏𝙐𝙍²```'
+const daftar3 = [{buttonId: `${prefix}verify`,buttonText: {displayText: `𝙍𝙀𝙂𝙄𝙎𝙏𝙍𝘼𝙎𝙄🌷`,},type: 1,},]
 
 const createSerial = (size) => {
 return crypto.randomBytes(size).toString('hex').slice(0, size)
@@ -717,9 +718,9 @@ trans = `              ❬ BOT INFO ❭
 
 ╭─❒ 「 INFO SERVER 」 ❒
 ├ ツ Base : *Mhankbarbar*
-├ ツ Penyusun : *Haikal*
-├ ツ Terbit : *15-01-2022*
-├ ツ Tempat : *Kota Bekasi, Jawabarat*
+├ ツ Penyusun : *King Of Bear*
+├ ツ Terbit : *20-01-2022*
+├ ツ Tempat : *Kepulauan Riau, Batam*
 └❏
 ┌────“ 💭 „────
 │‣ _*Nama Bot : ${botname}*_
@@ -728,7 +729,7 @@ trans = `              ❬ BOT INFO ❭
 │‣ _*Prefix : Multi*_
 │‣ _*Lenguage : Javascript*_
 │‣ _*Jam : ${time}*_
-└➤ | © Haikal 。✑ ─────
+└➤ | © KingOfBear 。✑ ─────
 
 _*JIKA BUTTON TIDAK TERLIHAT KETIK .allmenu*_
  © _${week} ${weton} ${date}_`
@@ -806,7 +807,7 @@ break
                nombor = 1
                startnum = 0
                for (let x of listmenu) {
-               const yy = {title: 'YENI💙',
+               const yy = {title: 'KING OF BEAR💙',
                     rows: [
                        {
                         title: `${listmenuu[startnum++]}`,
@@ -876,7 +877,7 @@ break
                nombor = 1
                startnum = 0
                for (let x of listmenu) {
-               const yy = {title: 'Z BOT OFC  🅥 ' + nombor++,
+               const yy = {title: 'KING OF BEAR  🅥 ' + nombor++,
                     rows: [
                        {
                         title: `${listmenuu[startnum++]}`,
@@ -926,7 +927,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
                     rows: [
                        {
                         title: `${listmenuu[startnum++]}`,
-                        description: `©HaikalGans`,
+                        description: `©KingOfBear`,
                         rowId: `${prefix}${x}`
                       }
                     ]
@@ -944,7 +945,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 emm =
 `_*HAI*_`
 oy =`
-https://chat.whatsapp.com/GCf6umdUm2bL8sQihW31gh
+https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL
 
 _Ga Join Ga Kawan_
 _*LANJUT? KLIK BUTTON DI BAWAH*_
@@ -972,7 +973,7 @@ oy =`
 🐣 _Nomor User : ${sender.split('@')[0]}_
 _*Youtube Owner*_
 
-https://youtube.com/channel/UCYDZpsK1w7hWYInmyZowrUA
+https://youtu.be/jJrZYhM8fGQ
 _SubsCribe_
 
 _*LANJUT? KLIK BUTTON DI BAWAH*_
@@ -1023,16 +1024,16 @@ Jam : ${time}
 HARI : ${week}, ${date}
 𝐃𝐨𝐧'𝐭 𝐒𝐩𝐚𝐦`
 oy =`
-*_Jasa Sewa Bot By : ©HaikalGans_
+*_Jasa Sewa Bot By : ©KingOfBear_
 *>>>>>>>> *LIST HARGA* >>>>>>>>*
 [🔥] . _Fitur Bot Banyak And Ada Catalog Menu_
 
-🐣. _*2Minggu : Rp. 3.000 [ Promo ]*_
-🐣. _*1Bulan : Rp. 5.000 [ Promo ]*_
-🐣. _*Manent : Rp. 10.000 [ Promo ]*_
+🐣. _*1Minggu : Rp. 5.000 [ Promo ]*_
+🐣. _*1Bulan : Rp. 15.000 [ Promo ]*_
+🐣. _*Manent : Rp. 30.000 [ Promo ]*_
 
  _Jika Anda Minat Bisa Chat Nomer Ini_
-_*🪀 Wa.me/6289609927539*_
+_*🪀 Wa.me/6288279268363*_
 _Note Jangan Spam_
 _*Maaf Jika Slow Respon Karena Sesuai Antrian*_`
 but = [
@@ -1501,10 +1502,10 @@ break
 	
 case 'original':
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
-ppUrl = 'https://i.ibb.co/nmhW71w/20211229-134255.jpeg'
+ppUrl = 'https://i.ibb.co/p3QRvH2/gambar1.jpg'
 img = await getBuffer(ppUrl)
 teks = `Hai ${pushname} 👋${tampilUcapan}
-I'M Z-BOT8 ^_^`
+I'M YUKI BOT ^_^`
 trans = `BOT INFO
 🗿  _*Nama Bot : ${botname}*_
 😨  _️Nama Owner : ${ownername}_
@@ -2085,7 +2086,7 @@ reply(mess.error.stick)
 .on('end', function () {
 console.log('Finish')
 buffer = fs.readFileSync(ran)
-costum(buffer, sticker, Verived, `Jangan Lupa Subscribe Z-BOT8`)
+costum(buffer, sticker, Verived, `Jangan Lupa Subscribe YUKI BOT`)
 fs.unlinkSync(media)
 fs.unlinkSync(ran)
 })
@@ -2152,7 +2153,7 @@ exec(`ffmpeg -i ${media} ${ran}`, (err) => {
 fs.unlinkSync(media)
 if (err) return reply(' Gagal, pada saat mengkonversi sticker ke gambar ')
 buffer = fs.readFileSync(ran)
-costum(buffer, image, Verived, `©_YENI BOTZ_ *V : 2.889H*`)
+costum(buffer, image, Verived, `©_YUKI BOTZ_ *V : 2.889H*`)
 fs.unlinkSync(ran)
 })
 break
@@ -2183,7 +2184,7 @@ ran = getRandom('.webp')
 exec(`ffmpeg -i ${anum} ${ran}`, (err) => {
 fs.unlinkSync(anum)
 buffer = fs.readFileSync(ran)
-simple.sendMessage(from, buffer, video, { quoted: ftrol, caption: 'Done... Jangan Lupa Subscribe Z-BOT8' })
+simple.sendMessage(from, buffer, video, { quoted: ftrol, caption: 'Done... Jangan Lupa Subscribe YUKI BOT' })
 fs.unlinkSync(ran)
 })
 break
@@ -2384,7 +2385,7 @@ break
 case 'ytmp3':
 simple.updatePresence(from, Presence.recording)
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
-if (args.length == 0) return reply(`Link Nya Mana Tod\nContoh: ${prefix + command} https://www.youtube.com/watch?v=qZIQAk-BUEc`)
+if (args.length == 0) return reply(`Link Nya Mana Tod\nContoh: ${prefix + command} https://www.youtube.com/watch?v=jJrZYhM8fGQ&t=32s`)
 ini_link = args[0]
 get_result = await fetchJson(`https://api.lolhuman.xyz/api/ytaudio2?apikey=${humankey}&url=${ini_link}`)
 get_result = get_result.result
@@ -2397,7 +2398,7 @@ break
 case 'ytmp4':
 simple.updatePresence(from, Presence.recording)
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
-if (args.length == 0) return reply(`Link Nya Mana Tod\nContoh: ${prefix + command} https://www.youtube.com/watch?v=qZIQAk-BUEc`)
+if (args.length == 0) return reply(`Link Nya Mana Tod\nContoh: ${prefix + command} https://www.youtube.com/watch?v=jJrZYhM8fGQ&t=32s`)
 ini_link = args[0]
 get_result = await fetchJson(`https://api.lolhuman.xyz/api/ytvideo2?apikey=${humankey}&url=${ini_link}`)
 get_result = get_result.result
@@ -2410,7 +2411,7 @@ break
 case 'tiktok':
 simple.updatePresence(from, Presence.recording)
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
-if (args.length == 0) return reply(`Link Nya Mana Tod\nContoh: ${prefix + command} https://www.youtube.com/watch?v=qZIQAk-BUEc`)
+if (args.length == 0) return reply(`Link Nya Mana Tod\nContoh: ${prefix + command} https://vt.tiktok.com/ZSwWCk5o/`)
 ini_url = args[0]
 ini_url = `https://api.lolhuman.xyz/api/tiktok?apikey=${humankey}&url=${ini_url}`
 get_result = await fetchJson(ini_url)
@@ -2420,7 +2421,7 @@ break
 case 'tiktoknowm':
 simple.updatePresence(from, Presence.recording)
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
-if (args.length == 0) return reply(`Link Nya Mana Tod\nContoh: ${prefix + command} https://www.youtube.com/watch?v=qZIQAk-BUEc`)
+if (args.length == 0) return reply(`Link Nya Mana Tod\nContoh: ${prefix + command} https://vt.tiktok.com/ZSwWCk5o/`)
 ini_url = args[0]
 ini_url = `https://api.lolhuman.xyz/api/tiktok?apikey=${humankey}&url=${ini_url}`
 get_result = await fetchJson(ini_url)
@@ -2894,7 +2895,7 @@ break
 case 'artinama':
 simple.updatePresence(from, Presence.recording)
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
-if (args.length == 0) return reply(`Namamya Mana Tod\nContoh: ${prefix + command} Z-BOT8`)
+if (args.length == 0) return reply(`Namamya Mana Tod\nContoh: ${prefix + command} YUKI BOT`)
 ini_nama = args.join(" ")
 get_result = await fetchJson(`https://api.lolhuman.xyz/api/artinama?apikey=${humankey}&nama=${ini_nama}`)
 reply(get_result.result)
@@ -2902,7 +2903,7 @@ break
 case 'jodoh':
 simple.updatePresence(from, Presence.recording)
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
-if (args.length == 0) return reply(`Namanya Mana Tod\nContoh: ${prefix + command} Zero & Sandrinna`)
+if (args.length == 0) return reply(`Namanya Mana Tod\nContoh: ${prefix + command} KingOfBear & Athena`)
 ini_nama = args.join(" ").split("&")
 nama1 = ini_nama[0].trim()
 nama2 = ini_nama[1].trim()
@@ -2929,7 +2930,7 @@ break
 case 'tebakumur':
 simple.updatePresence(from, Presence.recording)
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
-if (args.length == 0) return reply(`Namanya Mana Tod\nContoh: ${prefix + command} Z-BOT8`)
+if (args.length == 0) return reply(`Namanya Mana Tod\nContoh: ${prefix + command} YUKI BOT`)
 ini_name = args.join(" ")
 if (args.length == 0) return reply(`Example: ${prefix + command} LoL Human`)
 get_result = await fetchJson(`https://api.lolhuman.xyz/api/tebakumur?apikey=${humankey}&name=${ini_name}`)
@@ -2944,7 +2945,7 @@ break
 case 'stalkig':
 simple.updatePresence(from, Presence.recording)
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
-if (args.length == 0) return reply(`Usernamenya Mana Tod\nContoh: ${prefix + command} Sandrinna_11`)
+if (args.length == 0) return reply(`Usernamenya Mana Tod\nContoh: ${prefix + command} drak_ipul123`)
 username = args[0]
 ini_result = await fetchJson(`https://api.lolhuman.xyz/api/stalkig/${username}?apikey=${humankey}`)
 ini_result = ini_result.result
@@ -2960,7 +2961,7 @@ break
 case 'stalktiktok':
 simple.updatePresence(from, Presence.recording)
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
-if (args.length == 0) return reply(`Usernamenya Mana Tod\nContoh: ${prefix + command} tjukruw`)
+if (args.length == 0) return reply(`Usernamenya Mana Tod\nContoh: ${prefix + command} raraharsita2`)
 stalk_toktok = args[0]
 get_result = await fetchJson(`https://api.lolhuman.xyz/api/stalktiktok/${stalk_toktok}?apikey={humankey}`)
 get_result = get_result.result
@@ -2977,7 +2978,7 @@ break
 case 'stalkgithub':
 simple.updatePresence(from, Presence.recording)
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
-if (args.length == 0) return reply(`Usernamenya Mana Tod\nContoh: ${prefix + command} Ikalbot`)
+if (args.length == 0) return reply(`Usernamenya Mana Tod\nContoh: ${prefix + command} YukiBot`)
 username = args[0]
 ini_result = await fetchJson(`https://api.lolhuman.xyz/api/github/${username}?apikey=${humankey}`)
 ini_result = ini_result.result
@@ -3047,7 +3048,7 @@ let inilist = []
 for (let i of ownerNumber) {
 let vname = simple.contacts[i] != undefined ? simple.contacts[i].vname || simple.contacts[i].notify : undefined
 inilist.push({
-"displayName": 'HaikalGanz',
+"displayName": 'KingOfBear',
 "vcard": 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n'
 + `FN:${ownername}\n`
@@ -3099,7 +3100,7 @@ var options = {
 text: teks1,
 contextInfo: { mentionedJid: [nomor] },
 }
-simple.sendMessage(`62815143205943@s.whatsapp.net`, options, text, { quoted: ftrol })
+simple.sendMessage(`6288279268363@s.whatsapp.net`, options, text, { quoted: ftrol })
 reply('Masalah Telah Di Laporkan Ke Owner BOT, Mohon Tunggu Untuk Proses Perbaikan')
 break
 
@@ -3141,21 +3142,21 @@ case 'setprofile':
                 reply(`Sukses mengganti nama ke ${body.slice(9)}`)
                 break
 //(MENU KHUSUS USER GG)//
-case 'menudinda':
+case 'menubear':
 simple.updatePresence(from, Presence.recording)
 tod = `
-*STORE BY 𝐀𝐃𝐈𝐍𝐃𝐀*
+*STORE BY 𝙆𝙄𝙉𝙂 𝙊𝙁 𝘽𝙀𝘼𝙍*
 *serbah murmer n suka promo dadakan🙀, banyak freenya juga lohh yukk joinn💘💘*
 
 LINK GC STORE :
-https://chat.whatsapp.com/JP2SwsR3Yp4LJM7D1CRbsV
+https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL
 
 ︶꒦꒷꒷꒦︶꒦꒷꒷꒦︶꒦꒷꒷꒦︶꒦꒷꒷꒦︶꒦꒷꒷꒦︶
 
-ᥒႸ⍺rі рᥣр рᥱr⍺k⍺ᥒ ᥒ tut𝘰r 𝗆ur𝗆ᥱr?Ⴘukk 𝗆⍺𝗆ріr 𝖽і A𝖽іᥒ𝖽⍺ 𝘚t𝘰rᥱ😋💘
+ᥒႸ⍺rі рᥣр рᥱr⍺k⍺ᥒ ᥒ tut𝘰r 𝗆ur𝗆ᥱr?Ⴘukk 𝗆⍺𝗆ріr 𝖽і KingOFBear 𝘚t𝘰rᥱ😋💘
 
 ❁ཻུ۪۪⸙͎𝐋𝚰𝐍𝐊 𝐆𝐂 :
-https://chat.whatsapp.com/LC2ux4rUxbSItiqI4qGaXB
+https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL
 
 ᖯᥒႸ⍺k 𝗆ᥱᥒu ᥣ⍺іᥒ jɡ⍺ ᖯᥱᖯᖯ :
 ៰࣪ ࣭ 🍪Aᥣᥣ рᥣр
@@ -3174,20 +3175,20 @@ https://chat.whatsapp.com/LC2ux4rUxbSItiqI4qGaXB
 ❀┊о𝗋ⅾе𝗋?sbɑ𝗋 yɑ
 ❀┊bе ɑ sოɑ𝗋t b𝗎yyе𝗋 
 ❀┊cоpy Iіst?ⅾеიⅾɑ+𝗏і𝗋ɑI y
-*MAU BUY JASA? PILIH BUTTON DINDA DI BAWAH*
+*MAU BUY JASA? PILIH BUTTON KING OF BEAR DI BAWAH*
 ─`
 but = [
-{ buttonId: `${prefix}dinda`, buttonText: { displayText: 'DINDA😘' }, type: 1 }, 
+{ buttonId: `${prefix}bear`, buttonText: { displayText: 'KING OF BEAR😘' }, type: 1 }, 
 { buttonId: `${prefix}menu`, buttonText: { displayText: 'BOTNYA☕' }, type: 1 }
 ]
 sendButton(from, tod, faketeks, but, mek)
 break
 
-case 'menubian':
+case 'menubear2':
 simple.updatePresence(from, Presence.recording)
 tod = `
 FEE REKBER💰
-_*By : Bian Store*_
+_*By : 𝙆𝙄𝙉𝙂 𝙊𝙁 𝘽𝙀𝘼𝙍 𝙎𝙏𝙊𝙍𝙀*_
 •0-50k:2K💵
 •50k-100k:5K💵
 •100k-300k:10K💵
@@ -3197,17 +3198,17 @@ _*By : Bian Store*_
 •TT/BT:15K💵
 ─`
 but = [
-{ buttonId: `${prefix}bian`, buttonText: { displayText: 'BER²😎' }, type: 1 }, 
+{ buttonId: `${prefix}bear2`, buttonText: { displayText: 'BER²😎' }, type: 1 }, 
 { buttonId: `${prefix}sewabot`, buttonText: { displayText: 'SEWABOT🐣' }, type: 1 }, 
 ]
 sendButton(from, tod, faketeks, but, mek)
 break
 
-case 'menuyopki':
+case 'menubear3':
 simple.updatePresence(from, Presence.recording)
 tod = `
 
-**ADMIN YOPKI MELAYANI:*
+**ADMIN KING OF BEAR MELAYANI:*
 -GOBER!
 -OVOBER!
 -REKBER
@@ -3216,7 +3217,7 @@ tod = `
 _BATAL TRX KE POTONG_
 
 *BER ? SUNG MC LANGSUNG*
-_Fee Admin YOPKI_
+_Fee Admin KING OF BEAR_
 
 *🌻1k - 50k : 5k*
 *🌻50k - 100k : 10k*
@@ -3224,26 +3225,26 @@ _Fee Admin YOPKI_
 *🌻150k - 250k : 15k*
 *🌻250k - 600k : 20k*
 *🌻600k - 1JT : 50k*
-*MAU BUY JASA ADMIN? PILIH BUTTON YOPKI
+*MAU BUY JASA ADMIN? PILIH BUTTON KING OF BEAR
  DI BAWAH*
 ─`
 but = [
-{ buttonId: `${prefix}yopki`, buttonText: { displayText: 'BER²😎' }, type: 1 }, 
+{ buttonId: `${prefix}bear3`, buttonText: { displayText: 'BER²😎' }, type: 1 }, 
 ]
 sendButton(from, tod, faketeks, but, mek)
 break
 
-case 'menunando':
+case 'menubear4':
 simple.updatePresence(from, Presence.recording)
 tod = `
 
-NO : 082213416986
+NO : 088279268363
 WASPADA CLONE YA
 SELAIN ITU CLONE YA
 
-*JOIN GRUB JB NANDO STORE KAWAN : https://chat.whatsapp.com/J5BlH0iUuzJ3PwG6rhGAxj*
+*JOIN GRUB JB KING OF BEAR STORE KAWAN : https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL*
 
-*ADMIN NANDO MENYEDIAKAN :*
+*ADMIN KING OF BEAR MENYEDIAKAN :*
 📢 GOBER
 📢 OVOBER
 📢 DANABER
@@ -3251,7 +3252,7 @@ SELAIN ITU CLONE YA
 📢 TUTOR SESI 10k
 📢 JUAL/BELI AKUN
 
-*FEE ADMIN NANDO STORE :*
+*FEE ADMIN KING OF BEAR STORE :*
 📍0-80  : 5k
 📍81-250 : 10k
 📍251-350 : 15k
@@ -3261,11 +3262,11 @@ SELAIN ITU CLONE YA
 
 📍TRX BATAL FEE KEPOTONG
 📍GOBER/BER² : SUNG MC KAN
-📍RAGU? Cek IG nando_store_ff
-📍BE SMART BUYER NANDO JB
+📍RAGU? Cek IG drak_ipul123
+📍BE SMART BUYER KING OF BEAR JB
 ─`
 but = [
-{ buttonId: `${prefix}nando`, buttonText: { displayText: 'BER²😎' }, type: 1 }, 
+{ buttonId: `${prefix}bear4`, buttonText: { displayText: 'BER²😎' }, type: 1 }, 
 ]
 sendButton(from, tod, faketeks, but, mek)
 break
@@ -3291,18 +3292,18 @@ simple.updatePresence(from, Presence.recording)
 told =  fs.readFileSync('./poto/bot.mp4')
 img =  await getBuffer(told)
 tod = `
-*JASA SEWA BOT BY : HAIKAL*
+*JASA SEWA BOT BY : KING OF BEAR*
 
 乂. _List Harga_ :
 
-あ.*1-MINGGU = 3.000*
-あ.*2-MINGGU = 5.000*
-あ.*1-BULAN = 10.000*
-あ.*PER-MANENT = 15.000*
+あ.*1-MINGGU = 5.000*
+あ.*2-MINGGU = 10.000*
+あ.*1-BULAN = 15.000*
+あ.*PER-MANENT = 30.000*
 
 _*MINAT? INGIN SEWA BOT? KLIK LINK DI BAWAH*_
 
-︎☂︎Link : *http://wa.me/6289609927539?text=BG+MAU+SEWA+BOT*
+︎☂︎Link : *http://wa.me/6288279268363?text=BG+MAU+SEWA+BOT*
    `
 but = [
 { buttonId: `${prefix}gopay`, buttonText: { displayText: 'GOPAY' }, type: 1 }, 
@@ -3318,7 +3319,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 but = [
 { buttonId: `${prefix}done`, buttonText: { displayText: 'OWNER 🔥' }, type: 1 }
 ]
-sendButton(from, "GOPAY : 089609927539", faketeks, but, mek)
+sendButton(from, "GOPAY : 088279268363", faketeks, but, mek)
 break
 case 'dana':
 simple.updatePresence(from, Presence.recording)
@@ -3326,7 +3327,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 but = [
 { buttonId: `${prefix}done`, buttonText: { displayText: 'OWNER 🔥' }, type: 1 }
 ]
-sendButton(from, "DANA : 089609927539", faketeks, but, mek)
+sendButton(from, "DANA : 088279268363", faketeks, but, mek)
 break
 case 'ovo':
 simple.updatePresence(from, Presence.recording)
@@ -3334,7 +3335,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 but = [
 { buttonId: `${prefix}done`, buttonText: { displayText: 'OWNER 🔥' }, type: 1 }
 ]
-sendButton(from, "OVO : 089609927539", faketeks, but, mek)
+sendButton(from, "OVO : 088279268363", faketeks, but, mek)
 break
 
 //━━━━━━━━━━━━━━━[ FITUR ASUPAN ]━━━━━━━━━━━━━━━━━//
@@ -3349,49 +3350,49 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 ini = await fetchJson(`https://zeroyt7-api.herokuapp.com/api/asupan/cecan?apikey=${zerkey}`)
 reply(mess.wait)
 buffer = await getBuffer(ini.result.url)
-simple.sendMessage(from, buffer, image, {quoted: ftrol, caption: 'Nih Jangan Lupa Subscribe Z-BOT8'})
+simple.sendMessage(from, buffer, image, {quoted: ftrol, caption: 'Nih Jangan Lupa Subscribe YUKI BOT'})
 break
 case 'hijaber':
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
 ini = await fetchJson(`https://zeroyt7-api.herokuapp.com/api/asupan/hijaber?apikey=${zerkey}`)
 reply(mess.wait)
 buffer = await getBuffer(ini.result.url)
-simple.sendMessage(from, buffer, image, {quoted: ftrol, caption: 'Nih Jangan Lupa Subscribe Z-BOT8'})
+simple.sendMessage(from, buffer, image, {quoted: ftrol, caption: 'Nih Jangan Lupa Subscribe YUKI BOT'})
 break
 case 'santuy':
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
 ini = await fetchJson(`https://zeroyt7-api.herokuapp.com/api/asupan/santuy?apikey=${zerkey}`)
 reply(mess.wait)
 buffer = await getBuffer(ini.result.url)
-simple.sendMessage(from, buffer, video, {quoted: ftrol, caption: 'Nih Jangan Lupa Subscribe Z-BOT8'})
+simple.sendMessage(from, buffer, video, {quoted: ftrol, caption: 'Nih Jangan Lupa Subscribe YUKI BOT'})
 break
 case 'ukhti':
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
 ini = await fetchJson(`https://zeroyt7-api.herokuapp.com/api/asupan/ukty?apikey=${zerkey}`)
 reply(mess.wait)
 buffer = await getBuffer(ini.result.url)
-simple.sendMessage(from, buffer, video, {quoted: ftrol, caption: 'Nih Jangan Lupa Subscribe Z-BOT8'})
+simple.sendMessage(from, buffer, video, {quoted: ftrol, caption: 'Nih Jangan Lupa Subscribe YUKI BOT'})
 break
 case 'bocil':
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
 ini = await fetchJson(`https://zeroyt7-api.herokuapp.com/api/asupan/bocil?apikey=${zerkey}`)
 reply(mess.wait)
 buffer = await getBuffer(ini.result.url)
-simple.sendMessage(from, buffer, video, {quoted: ftrol, caption: 'Nih Jangan Lupa Subscribe Z-BOT8'})
+simple.sendMessage(from, buffer, video, {quoted: ftrol, caption: 'Nih Jangan Lupa Subscribe YUKI BOT'})
 break
 case 'ghea':
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
 ini = await fetchJson(`https://zeroyt7-api.herokuapp.com/api/asupan/ghea?apikey=${zerkey}`)
 reply(mess.wait)
 buffer = await getBuffer(ini.result.url)
-simple.sendMessage(from, buffer, video, {quoted: ftrol, caption: 'Nih Jangan Lupa Subscribe Z-BOT8'})
+simple.sendMessage(from, buffer, video, {quoted: ftrol, caption: 'Nih Jangan Lupa Subscribe YUKI BOT'})
 break
 case 'rika':
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
 ini = await fetchJson(`https://zeroyt7-api.herokuapp.com/api/asupan/rikagusriani?apikey=${zerkey}`)
 reply(mess.wait)
 buffer = await getBuffer(ini.result.url)
-simple.sendMessage(from, buffer, video, {quoted: ftrol, caption: 'Nih Jangan Lupa Subscribe Z-BOT8'})
+simple.sendMessage(from, buffer, video, {quoted: ftrol, caption: 'Nih Jangan Lupa Subscribe YUKI BOT'})
 break
 
 //━━━━━━━━━━━━━━━[ FITUR GABUT ]━━━━━━━━━━━━━━━━━//
@@ -3730,7 +3731,7 @@ simple.sendMessage(from, gambar, image, {quoted: ftrol, caption: 'Nih Kak'})
 })
 break
 
-case 'dinda':
+case 'bear':
 simple.updatePresence(from, Presence.recording)
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
 members_ids = []
@@ -3739,20 +3740,20 @@ members_ids.push(mem.jid)
 }
 vcard2 = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n'
-+ `FN:${dindaname}\n`
-+ `ORG: Creator ${dindaname} ;\n`
-+ `TEL;type=CELL;type=VOICE;waid=${dinda}:${dinda}\n`
++ `FN:${bearname1}\n`
++ `ORG: Creator ${bearname1} ;\n`
++ `TEL;type=CELL;type=VOICE;waid=${bear}:${bear}\n`
 + 'END:VCARD'.trim()
-simple.sendMessage(from, {displayName: `Creator ${dindaname}`, vcard: vcard2}, contact, 
+simple.sendMessage(from, {displayName: `Creator ${bearname1}`, vcard: vcard2}, contact, 
 { quoted: ftrol, 
 })
-reply('TUHH NOMER DINDA')
+reply('TUHH NOMER KING OF BEAR')
 break
 case 'okh tq bot':
 reply('sama-sama kak 😇') 
 break
 
-case 'bian':
+case 'bear2':
 simple.updatePresence(from, Presence.recording)
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
 members_ids = []
@@ -3761,18 +3762,18 @@ members_ids.push(mem.jid)
 }
 vcard2 = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n'
-+ `FN:${bianname}\n`
-+ `ORG: Creator ${bianname} ;\n`
-+ `TEL;type=CELL;type=VOICE;waid=${bian}:${bian}\n`
++ `FN:${bearname2}\n`
++ `ORG: Creator ${bearname2} ;\n`
++ `TEL;type=CELL;type=VOICE;waid=${bear2}:${bear2}\n`
 + 'END:VCARD'.trim()
-simple.sendMessage(from, {displayName: `Creator ${bianname}`, vcard: vcard2}, contact, 
+simple.sendMessage(from, {displayName: `Creator ${bearname2}`, vcard: vcard2}, contact, 
 { quoted: ftrol, 
 })
-reply('TUHH NOMER BRIAN SUNG TARIK KE GRUP BER²')
+reply('TUHH NOMER KING OF BEAR SUNG TARIK KE GRUP BER²')
 break
 
 
-case 'yopki':
+case 'bear3':
 simple.updatePresence(from, Presence.recording)
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
 members_ids = []
@@ -3781,17 +3782,17 @@ members_ids.push(mem.jid)
 }
 vcard2 = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n'
-+ `FN:${yopkiname}\n`
-+ `ORG: Creator ${yopkiname} ;\n`
-+ `TEL;type=CELL;type=VOICE;waid=${yopki}:${yopki}\n`
++ `FN:${bearname3}\n`
++ `ORG: Creator ${bearname3} ;\n`
++ `TEL;type=CELL;type=VOICE;waid=${bear3}:${bear3}\n`
 + 'END:VCARD'.trim()
-simple.sendMessage(from, {displayName: `Creator ${yopkiname}`, vcard: vcard2}, contact, 
+simple.sendMessage(from, {displayName: `Creator ${bearname3}`, vcard: vcard2}, contact, 
 { quoted: ftrol, 
 })
-reply('TUHH NOMER YOPKI SUNG TARIK KE GRUP BER²')
+reply('TUHH NOMER KING OF BEAR SUNG TARIK KE GRUP BER²')
 break
 
-case 'nando':
+case 'bear4':
 simple.updatePresence(from, Presence.recording)
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
 members_ids = []
@@ -3800,14 +3801,14 @@ members_ids.push(mem.jid)
 }
 vcard2 = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n'
-+ `FN:${nandoname}\n`
-+ `ORG: Creator ${nandoname} ;\n`
-+ `TEL;type=CELL;type=VOICE;waid=${nando}:${nando}\n`
++ `FN:${bearname4}\n`
++ `ORG: Creator ${bearname4} ;\n`
++ `TEL;type=CELL;type=VOICE;waid=${bear4}:${bear4}\n`
 + 'END:VCARD'.trim()
-simple.sendMessage(from, {displayName: `Creator ${nandoname}`, vcard: vcard2}, contact, 
+simple.sendMessage(from, {displayName: `Creator ${bearname4}`, vcard: vcard2}, contact, 
 { quoted: ftrol, 
 })
-reply('TUHH NOMER NANDO SUNG TARIK KE GRUP BER²')
+reply('TUHH NOMER KING OF BEAR SUNG TARIK KE GRUP BER²')
 break
 
 case 'start':
@@ -4024,8 +4025,8 @@ break
  if (args.length == 0) return reply(`Contoh: ${prefix + command} awok awok`)
                     txt1 = args[0]
                     txt2 = args[1]
-                    getBuffer(`https://api.lolhuman.xyz/api/textprome2/${command}?apikey=Z-BOT8&text1=${txt1}&text2=${txt2}`).then((gambar) => {
-                        simple.sendMessage(from, gambar, image, {thumbnail: Buffer.alloc(0), caption: `©LOLHUMAN|IKAL _IMAGE_`, quoted : fgif})
+                    getBuffer(`https://api.lolhuman.xyz/api/textprome2/${command}?apikey=${humankey}&text1=${txt1}&text2=${txt2}`).then((gambar) => {
+                        simple.sendMessage(from, gambar, image, {thumbnail: Buffer.alloc(0), caption: `©LOLHUMAN|KINGOFBEAR _IMAGE_`, quoted : fgif})
                     })
                     break
                     
@@ -4059,7 +4060,7 @@ break
                     if (args.length == 0) return reply(`Example: ${prefix + command} kamu mah`)
                     ini_txt = args.join(" ")
                     getBuffer(`https://api.lolhuman.xyz/api/photooxy1/${command}?apikey=${humankey}&text=${ini_txt}`).then((gambar) => {
-                        simple.sendMessage(from, gambar, image, {thumbnail: Buffer.alloc(0), caption: `©IKAL IMAGE`, quoted : fgif})
+                        simple.sendMessage(from, gambar, image, {thumbnail: Buffer.alloc(0), caption: `©KING OF BEAR IMAGE`, quoted : fgif})
                     })
                     break
                 case 'arcade8bit':
@@ -4109,10 +4110,10 @@ break
                case 'freefire':
                simple.updatePresence(from, Presence.recording)
                if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
-                    if (args.length == 0) return reply(`Example: ${prefix + command} ikal image`)
+                    if (args.length == 0) return reply(`Example: ${prefix + command} bear image`)
                     ini_txt = args.join(" ")
                     getBuffer(`https://api.lolhuman.xyz/api/ephoto1/${command}?apikey=${humankey}&text=${ini_txt}`).then((gambar) => {
-                        simple.sendMessage(from, gambar, image, {thumbnail: Buffer.alloc(0), caption: `©IKAL IMAGE`, quoted : fgif}) 
+                        simple.sendMessage(from, gambar, image, {thumbnail: Buffer.alloc(0), caption: `©KING OF BEAR IMAGE`, quoted : fgif}) 
                     })
                     break
                     
@@ -4128,7 +4129,7 @@ break
 case 'rulesbot':
 simple.updatePresence(from, Presence.recording)
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
-PpUrl = 'https://i.ibb.co/LRjVs97/20211228-175837.jpg'
+PpUrl = 'https://i.ibb.co/p3QRvH2/gambar1.jpg'
 img = await getBuffer(PpUrl)
 tod = `
 _*❕RULES BOT ${botname}*_
@@ -4178,7 +4179,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
        stst = await simple.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
 tescok = `${menunya(prefix)}`
-Sendbutdocument(from, tescok, "© Z-BOT8*", fs.readFileSync('./poto/menu.pdf'), {mimetype:Mimetype.pdf, thumbnail:fs.readFileSync('./poto/image/thumbnaildokumen.jpg'), filename:`Z-BOT8.pdf`, pageCount: 9999999 },[{ buttonId: `${prefix}menu`, buttonText: { displayText: '🐣OWNER🐣' }, type: 1 }], {quoted:fvid, contextInfo: { mentionedJid: [dtod,otod,stod], forwardingScore: 508, isForwarded: true, externalAdReply:{title:`${tampilUcapan} - ${pushname}\nDownload Script`,mediaType:"2",thumbnail:ofrply,mediaUrl:`https://youtu.be/x-O0WHkv3uc`}}})
+Sendbutdocument(from, tescok, "© YUKI BOT*", fs.readFileSync('./poto/menu.pdf'), {mimetype:Mimetype.pdf, thumbnail:fs.readFileSync('./poto/image/thumbnaildokumen.jpg'), filename:`YUKI BOT.pdf`, pageCount: 9999999 },[{ buttonId: `${prefix}menu`, buttonText: { displayText: '🐣OWNER🐣' }, type: 1 }], {quoted:fvid, contextInfo: { mentionedJid: [dtod,otod,stod], forwardingScore: 508, isForwarded: true, externalAdReply:{title:`${tampilUcapan} - ${pushname}\nDownload Script`,mediaType:"2",thumbnail:ofrply,mediaUrl:`https://youtu.be/x-O0WHkv3uc`}}})
 break
 
 case 'allmenu':
@@ -4489,7 +4490,7 @@ veri = sender
 _registered.push(sender)
 fs.writeFileSync('./tempatdata/registered.json', JSON.stringify(_registered))
 addRegisteredUser(sender, serialUser)
-ppUrl = 'https://i.ibb.co/zn4FMbw/20211228-180731.jpg'
+ppUrl = 'https://i.ibb.co/W6rDYjc/thumb.jpg'
 img = await getBuffer(ppUrl)
 const kimak = 
 ` Terima Kasih Telah Mendaftarkan
@@ -4524,7 +4525,7 @@ case 'brainly':
 case 'donasi':
 
 simple.updatePresence(from, Presence.recording)
-Gtau = 'https://i.ibb.co/10SyhTM/20211229-133803.jpg'
+Gtau = 'https://i.ibb.co/W6rDYjc/thumb.jpg'
 img =  await getBuffer(Gtau)
 tod = `
 ┌ ㋡ *『🇩 🇴 🇳 🇦 🇸 🇮』*
@@ -4552,11 +4553,11 @@ break
 case 'gopay2':
 simple.updatePresence(from, Presence.recording)
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
-anu = 'https://i.ibb.co/tcjXzFC/20211230-102540.jpg'
+anu = 'https://i.ibb.co/Q9tZw1J/donasi.jpg'
 img = await getBuffer(anu)
 we = `
 _*MAU DONASI LEWAT GOPAY BISA SCAN ATAU VIA NOPE DI BAWAH! Boleh banget*_ :)
-_DANA : 089609927539_`
+_DANA : VIA QR_`
 but = [
 { buttonId: `${prefix}done`, buttonText: { displayText: 'OWNER 🔥' }, type: 1 }
 ]
@@ -4565,11 +4566,11 @@ break
 case 'dana2':
 simple.updatePresence(from, Presence.recording)
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
-anu = 'https://i.ibb.co/Ss1kFHh/9e7c91875eae22c9e12acbc95ec155b4.jpg'
+anu = 'https://i.ibb.co/Q9tZw1J/donasi.jpg'
 img = await getBuffer(anu)
 we = `
 _*MAU DONASI LEWAT DANA YA KAK? Boleh banget*_ :)
-_DANA : 089609927539_`
+_DANA : 088279268363_`
 but = [
 { buttonId: `${prefix}done`, buttonText: { displayText: 'OWNER 🔥' }, type: 1 }
 ]
@@ -4578,11 +4579,11 @@ break
 case 'ovo2':
 simple.updatePresence(from, Presence.recording)
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
-anu = 'https://i.ibb.co/pLysPHK/11949c7dc7042ff874b635411b5fd1a4.jpg'
+anu = 'https://i.ibb.co/Q9tZw1J/donasi.jpg'
 img = await getBuffer(anu)
 we = `
 _*Mau Donasi Lewat Ovo Ya kak*_ Boleh Banget :)
-OVO : 089609927539`
+_OVO : VIA QR_`
 but = [
 { buttonId: `${prefix}done`, buttonText: { displayText: 'OWNER 🔥' }, type: 1 }
 ]
@@ -4608,8 +4609,8 @@ break
 case 'catalog': 
 simple.updatePresence(from, Presence.recording)
 reply('```W A I T I N G```')
-                nama = ' 🔥Z-BOT8🔥 '
-       ownerJid = "62815143205943@s.whatsapp.net"
+                nama = ' 🔥YUKI BOT🔥 '
+       ownerJid = "6288279268363@s.whatsapp.net"
                 nomor = 1
                 itod = `${sender}`
        ktkt = await simple.getStatus(`${sender.split('@')[0]}@c.us`)
@@ -4814,7 +4815,7 @@ Owner Menu
 ヅ ${prefix}bc [ text ]
 ヅ ${prefix}report [ masalahanya ]
 └─────────────────❒`
-function _0x51af(_0x18fd70,_0x44055a){var _0x43e3bf=_0x43e3();return _0x51af=function(_0x51af13,_0x593793){_0x51af13=_0x51af13-0xc9;var _0x3b78c0=_0x43e3bf[_0x51af13];return _0x3b78c0;},_0x51af(_0x18fd70,_0x44055a);}var _0x4fefcd=_0x51af;(function(_0xf8abd,_0x80cad7){var _0x10c254=_0x51af,_0x12b090=_0xf8abd();while(!![]){try{var _0x1c718c=-parseInt(_0x10c254(0xce))/0x1+-parseInt(_0x10c254(0xd6))/0x2*(parseInt(_0x10c254(0xda))/0x3)+parseInt(_0x10c254(0xcd))/0x4+parseInt(_0x10c254(0xd3))/0x5*(parseInt(_0x10c254(0xd5))/0x6)+-parseInt(_0x10c254(0xd4))/0x7+parseInt(_0x10c254(0xca))/0x8+-parseInt(_0x10c254(0xcf))/0x9*(-parseInt(_0x10c254(0xd2))/0xa);if(_0x1c718c===_0x80cad7)break;else _0x12b090['push'](_0x12b090['shift']());}catch(_0x428488){_0x12b090['push'](_0x12b090['shift']());}}}(_0x43e3,0x49721));var imgs=await simple[_0x4fefcd(0xd1)](_0x4fefcd(0xd0),thubb,image,{'thumbnail':thubb}),imgCatalog=imgs[_0x4fefcd(0xd7)]['imageMessage'],ctlg=simple['prepareMessageFromContent'](from,{'productMessage':{'product':{'productImage':imgCatalog,'productId':_0x4fefcd(0xd9),'title':_0x4fefcd(0xdc),'description':menu,'footerText':_0x4fefcd(0xc9),'currencyCode':_0x4fefcd(0xd8),'priceAmount1000':_0x4fefcd(0xde),'productImageCount':0x1,'firstImageId':0x1,'salePriceAmount1000':'35000000','retailerId':''+tampilUcapan,'url':_0x4fefcd(0xcc)},'businessOwnerJid':_0x4fefcd(0xdb)}},{'quoted':mek,'mimetype':_0x4fefcd(0xcb)});function _0x43e3(){var _0x5a2d2f=['10HnZGSs','2330ajXktJ','102074ArpUTi','5034uqbEtQ','228iOdvzK','message','IDR','62815143205943','12153OHjyiI','62815143205943@s.whatsapp.net','ALL\x20MENU','relayWAMessage','100000000','©\x20z8Bot','1889032jXDKTP','image/jpeg','Love\x20You\x20All\x20>_<\x0ahttps://youtube.com/channel/UCYDZpsK1w7hWYInmyZowrUA','122732KTLtHv','592399xgeLOt','6406578RrtgNQ','0@c.us','prepareMessage'];_0x43e3=function(){return _0x5a2d2f;};return _0x43e3();}simple[_0x4fefcd(0xdd)](ctlg);
+function _0x51af(_0x18fd70,_0x44055a){var _0x43e3bf=_0x43e3();return _0x51af=function(_0x51af13,_0x593793){_0x51af13=_0x51af13-0xc9;var _0x3b78c0=_0x43e3bf[_0x51af13];return _0x3b78c0;},_0x51af(_0x18fd70,_0x44055a);}var _0x4fefcd=_0x51af;(function(_0xf8abd,_0x80cad7){var _0x10c254=_0x51af,_0x12b090=_0xf8abd();while(!![]){try{var _0x1c718c=-parseInt(_0x10c254(0xce))/0x1+-parseInt(_0x10c254(0xd6))/0x2*(parseInt(_0x10c254(0xda))/0x3)+parseInt(_0x10c254(0xcd))/0x4+parseInt(_0x10c254(0xd3))/0x5*(parseInt(_0x10c254(0xd5))/0x6)+-parseInt(_0x10c254(0xd4))/0x7+parseInt(_0x10c254(0xca))/0x8+-parseInt(_0x10c254(0xcf))/0x9*(-parseInt(_0x10c254(0xd2))/0xa);if(_0x1c718c===_0x80cad7)break;else _0x12b090['push'](_0x12b090['shift']());}catch(_0x428488){_0x12b090['push'](_0x12b090['shift']());}}}(_0x43e3,0x49721));var imgs=await simple[_0x4fefcd(0xd1)](_0x4fefcd(0xd0),thubb,image,{'thumbnail':thubb}),imgCatalog=imgs[_0x4fefcd(0xd7)]['imageMessage'],ctlg=simple['prepareMessageFromContent'](from,{'productMessage':{'product':{'productImage':imgCatalog,'productId':_0x4fefcd(0xd9),'title':_0x4fefcd(0xdc),'description':menu,'footerText':_0x4fefcd(0xc9),'currencyCode':_0x4fefcd(0xd8),'priceAmount1000':_0x4fefcd(0xde),'productImageCount':0x1,'firstImageId':0x1,'salePriceAmount1000':'35000000','retailerId':''+tampilUcapan,'url':_0x4fefcd(0xcc)},'businessOwnerJid':_0x4fefcd(0xdb)}},{'quoted':mek,'mimetype':_0x4fefcd(0xcb)});function _0x43e3(){var _0x5a2d2f=['10HnZGSs','2330ajXktJ','102074ArpUTi','5034uqbEtQ','228iOdvzK','message','IDR','6288279268363','12153OHjyiI','6288279268363@s.whatsapp.net','ALL\x20MENU','relayWAMessage','100000000','©\x20z8Bot','1889032jXDKTP','image/jpeg','Love\x20You\x20All\x20>_<\x0ahttps://youtube.com/channel/UCYDZpsK1w7hWYInmyZowrUA','122732KTLtHv','592399xgeLOt','6406578RrtgNQ','0@c.us','prepareMessage'];_0x43e3=function(){return _0x5a2d2f;};return _0x43e3();}simple[_0x4fefcd(0xdd)](ctlg);
 break
 
 case 'runtime':
@@ -4827,16 +4828,16 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 tescok = `❏  _*Runtime : ${runtime(process.uptime())}*_
 
   「 BAILEYS SELF-BOT」 `
-Sendbutdocument(from, tescok, "© Z-BOT8*", fs.readFileSync('./poto/menu.pdf'), {mimetype:Mimetype.pdf, thumbnail:fs.readFileSync('./poto/image/thumbnaildokumen.jpg'), filename:`Z-BOT8.pdf`, pageCount: 9999999 },[{ buttonId: `${prefix}menu`, buttonText: { displayText: 'SIP,KAK😁' }, type: 1 }], {quoted:fvid, contextInfo: { mentionedJid: [dtod,otod,stod], forwardingScore: 508, isForwarded: true, externalAdReply:{title:`${tampilUcapan} - ${pushname}\nDownload Script`,mediaType:"2",thumbnail:ofrply,mediaUrl:`https://youtu.be/WP66OsAf1W0`}}})
+Sendbutdocument(from, tescok, "© YUKI BOT*", fs.readFileSync('./poto/menu.pdf'), {mimetype:Mimetype.pdf, thumbnail:fs.readFileSync('./poto/image/thumbnaildokumen.jpg'), filename:`YUKI BOT.pdf`, pageCount: 9999999 },[{ buttonId: `${prefix}menu`, buttonText: { displayText: 'SIP,KAK😁' }, type: 1 }], {quoted:fvid, contextInfo: { mentionedJid: [dtod,otod,stod], forwardingScore: 508, isForwarded: true, externalAdReply:{title:`${tampilUcapan} - ${pushname}\nDownload Script`,mediaType:"2",thumbnail:ofrply,mediaUrl:`https://youtu.be/WP66OsAf1W0`}}})
 break
 
 case 'sc':
 simple.updatePresence(from, Presence.recording)
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
-url =  'https://i.ibb.co/jJ0hd8t/20220102-153400.jpg'
+url =  'https://i.ibb.co/W6rDYjc/thumb.jpg'
 foto = await getBuffer(url)
 teks = `
-💾Sc : *https://github.com/Haikalbotz/v7*
+💾Sc : *https://youtu.be/jJrZYhM8fGQ
 _Spek Sc_ :
 1. *Antilink*
 2. *Welcome Button*
@@ -4847,7 +4848,7 @@ but = [
           { buttonId: `${prefix}menu`, buttonText: { displayText: 'MENU' }, type: 1 },
           { buttonId: `${prefix}rulesbot`, buttonText: { displayText: 'RULES' }, type: 1 }
         ]
-        sendButImage(from, teks, '©Created : Yeni Bot', foto, but,)
+        sendButImage(from, teks, '©Created : Yuki Bot', foto, but,)
 break
 case 'tourl':
     if ((isMedia && !mek.message.videoMessage || isQuotedImage || isQuotedVideo ) && args.length == 0) {
