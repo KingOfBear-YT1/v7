@@ -10,14 +10,14 @@ const moment = require('moment-timezone')
 const { wait, banner, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, start, info, success, close } = require('./lib/functions')
 const { color } = require('./lib/color')
 const _welkom = JSON.parse(fs.readFileSync('./tempatdata/welcome.json'))
-number = '6285157740529@s.whatsapp.net'
+number = '6288279268363@s.whatsapp.net'
 require('./simple.js')
 nocache('./simple.js', module => console.log(`${module} telah di update!`))
 
 const starts = async (simple = new WAConnection()) => {
     simple.logger.level = 'warn'
     simple.version = [2, 2143, 3]
- simple.browserDescription = [ 'Ikal', 'Browser', '3.0' ]
+ simple.browserDescription = [ 'KingOfBear', 'Browser', '3.0' ]
 console.log(color('?Allo Ges'))
 console.log(color('TNGKYIU TOO'))
 console.log(color(' >>>>>>>>>>>>>>>>>>>?|||||||||||||'))
@@ -25,6 +25,7 @@ console.log(color('? Allah Swt                '))
 console.log(color('? Yeni                '))
 console.log(color('? Kahfz                '))
 console.log(color('? Nata                      '))
+console.log(color('? King Of Bear            '))
 console.log(color('  >>>>>>>>>>>>>>>??????>>||||||||||||'))
     console.log(banner)
     simple.on('qr', () => {
@@ -50,7 +51,7 @@ console.log(color('  >>>>>>>>>>>>>>>??????>>||||||||||||'))
         start('2', 'Menghubungkan...')
     })
     simple.on('open', () => {
-        success('2', 'Done Udah Nyambung  Subscribe Z-GJ BOTz')
+        success('2', 'Done Udah Nyambung  Subscribe King Of Bear')
     })
     await simple.connect({timeoutMs: 30*1000})
         fs.writeFileSync('./simple.json', JSON.stringify(simple.base64EncodedAuthInfo(), null, '\t'))
@@ -79,7 +80,7 @@ pp_grup =
 "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60"
 }
 if (anu.action == "add" && mem.includes(simple.user.jid)) {
-simple.sendMessage(anu.jid, "_*Makasih Udah Add Saya, Hay Semua Saya Adalah Z BOT Silahkan ketik .menu Untuk Memulai*_")
+simple.sendMessage(anu.jid, "_*Makasih Udah Add Saya, Hay Semua Saya Adalah YUKI BOT Silahkan ketik .menu Untuk Memulai*_")
 }
       
 if (anu.action == 'add') {
@@ -93,7 +94,7 @@ ppUrl = 'https://i.ibb.co/6BRf4Rc/Hans-Bot-No-Profile.png'
 }
 img = await getBuffer(ppUrl)
 teks = `Hallo @${anu_user}\nSelamat Datang Di Group: ${mdata.subject}\n\n*INFO USER*\n🍧 _*NAMA : @${anu_user}*_\n🍧 _*NOMER : @${num.split('@')[0]}*_\n🍧 _*UMUR : GUA BUKAN BAPAKNYA*_\n🍧 _*KELAS : DAH PUNYA ANAK*_\n\n_*Semoga Hari² Mu Menyenangkan*_`
-sendButImage(anu.jid, teks, `© Di Buat Oleh : Haikal Jelek`, img,but = [{buttonId:`hallo`, 
+sendButImage(anu.jid, teks, `© Di Buat Oleh : King Of Bear`, img,but = [{buttonId:`hallo`, 
 buttonText:{displayText: 'WELCOME👋!'},type:1}], options = {contextInfo: {mentionedJid: [num, number]},thumbnail: Buffer.alloc(0)})
 } else if (anu.action == 'remove') {
 num = anu.participants[0]
@@ -104,7 +105,7 @@ ppUrl = 'https://i.ibb.co/6BRf4Rc/Hans-Bot-No-Profile.png'
 }
 img = await getBuffer(ppUrl)
 teks = `Bye 👋@${num.split('@')[0]}\nSemoga Amal IBdahnya Si Terima Di sisi Tuhan Yang Maha Esa Selamat Tinggal Di Group: ${mdata.subject}`
-sendButImage(anu.jid, teks, `© Di Buat Oleh : HaikalJelek`, img,but= [{buttonId: `byebye`, buttonText: {displayText: `See You Broo?👋!`}, type: 1}], options = {contextInfo: {mentionedJid: [num, number]}, thumbnail: Buffer.alloc(0)})
+sendButImage(anu.jid, teks, `© Di Buat Oleh : King Of Bear`, img,but= [{buttonId: `byebye`, buttonText: {displayText: `See You Broo?👋!`}, type: 1}], options = {contextInfo: {mentionedJid: [num, number]}, thumbnail: Buffer.alloc(0)})
 } if (anu.action == "promote") {
         const mdata = await simple.groupMetadata(anu.jid)
         anu_user = simple.contacts[mem]
