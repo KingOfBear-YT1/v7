@@ -255,7 +255,7 @@ module.exports = simple = async (simple, mek, _welkom) => {
 //━━━━━━━━━━━━━━━[ BUTTON ]━━━━━━━━━━━━━━━━━//
 
         const listmsg = (from, title, desc, list) => { // ngeread nya pake rowsId, jadi command nya ga keliatan
-            let po = simple.prepareMessageFromContent(from, {"listMessage": {"title": title,"description": desc,"buttonText": "List Haikal","footerText": `_HELLO KAK_ >.<
+            let po = simple.prepareMessageFromContent(from, {"listMessage": {"title": title,"description": desc,"buttonText": "List King Of Bear","footerText": `_HELLO KAK_ >.<
 ✋ 
 _*Mohon Maklumi Kalo Masih Banyak,Yang Error, Kalo Ada Bug Atau Semacamnya Silakan Hubungi Owner Dengan Cara Ketik  .owner*_
 
@@ -711,7 +711,7 @@ simple.updatePresence(from, Presence.composing)
 	case 'help':
 	case 'm':
 	if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgif})
-Ppurl = 'https://telegra.ph/file/6eb8e60a43d10e307f959.jpg'
+Ppurl = 'https://i.ibb.co/p3QRvH2/gambar1.jpg'
 img = await getBuffer (Ppurl)
 teks = `乂•  ${pushname} 👋${tampilUcapan}`
 trans = `              ❬ BOT INFO ❭
